@@ -1,0 +1,23 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+kaggle.json
+
+# Large datasets
+datasets/
+data/
+
+# Temporary files
+*.log

@@ -1,0 +1,7 @@
+# Install these into your existing TensorFlow/Jupyter environment.
+# If you do not have TensorFlow, you need an alternative Keras backend (PyTorch).
+keras>=3.11,<4
+gradio>=5,<7
+opencv-python>=4.8
+numpy>=1.26
+Pillow>=10
